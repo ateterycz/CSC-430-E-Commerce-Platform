@@ -2,9 +2,10 @@
 
 
 The structure of this project was to simulate the true life cycle of developing software, including the written documentation associated with it. An idea similar to that of Amazon's e-commerce platform was chosen for this project by my teammates and I.
-We utilized an Agile method of creating the software, allowing for changes to be made to the software requirements as the program was developed. Our team also employed the use of Scrum, a schedule of weekly meetings and goals to be met each week. This method worked very well as it allowed our team to touch base frequently, allowing for any problems or successes to be brought to light. 
+We utilized an Agile method of creating the software, allowing for changes to be made to the software requirements as the program was developed. Our team also employed the use of Scrum, a schedule of weekly meetings and goals to be met.
 
 Initially, we created a set of program requirements. From these requirements, we created a database to store all the information we would need to be able to create a web commerce platform. Database tables included Products, Orders, Authentication, and Order Details. The design document template contains a graph detailing each table and their members.
+
 
 Required System Functions
 
