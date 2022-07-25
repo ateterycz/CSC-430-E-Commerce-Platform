@@ -1,4 +1,4 @@
-# Final Capstone Project
+# Final Project
 
 
 The structure of this project was to simulate the true life cycle of developing software, including the written documentation associated with it. An idea similar to that of Amazon's e-commerce platform was chosen for this project by my teammates and I.
